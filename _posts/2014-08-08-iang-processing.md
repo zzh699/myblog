@@ -9,5 +9,4 @@ categories: jekyll update
 
 This is the conversation between me and our secretary:
 
-
-![chat](http://pan.baidu.com/s/1gdw0eQn)
+<img src="/assets/chat.png" width="80%">
