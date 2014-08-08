@@ -9,5 +9,4 @@ categories: jekyll update
 
 This is the conversation between me and our secretary:
 
-<img src="/assets/chat.png" width="75%">
-
+<img src="/assets/chat.png" width="80%">
