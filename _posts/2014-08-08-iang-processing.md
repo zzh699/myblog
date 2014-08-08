@@ -9,4 +9,4 @@ categories: jekyll update
 
 This is the conversation between me and our secretary:
 
-<img src="/assets/chat.png" width="90%">
+<img src="https://raw.githubusercontent.com/zzh699/myblog/gh-pages/assets/chat.png" width="90%">
