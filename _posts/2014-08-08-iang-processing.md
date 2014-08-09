@@ -7,6 +7,6 @@ categories: jekyll update
 
 #Hi Hedi,
 
-This is the conversation between me and our secretary:
+This is the conversation between me and my department secretary:
 
-<img src="https://raw.githubusercontent.com/zzh699/myblog/gh-pages/assets/chat.png" width="90%">
+<img src="https://raw.githubusercontent.com/zzh699/myblog/gh-pages/assets/chat.png" width="100%">
