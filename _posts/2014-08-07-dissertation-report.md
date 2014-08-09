@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first blog"
+title:  "Digitl Holography"
 date:   2014-08-07 08:53:56
 categories: jekyll update
 ---
