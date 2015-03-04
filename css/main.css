@@ -67,6 +67,17 @@ a:visited { color: #205caa; }
   z-index: 1;
 }
 
+.category {
+  margin-left: 15%;
+  width: 70%;
+  float: left;
+  color: #727272;
+}
+
+.category a {
+  text-decoration: none;
+}
+
 .site-nav {
   float: right;
   line-height: 56px;

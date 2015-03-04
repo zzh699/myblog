@@ -7,6 +7,13 @@
 
     {% include header.html %}
 
+    <nav class="category"> 
+ 	Category:
+	{% for item in site.data.category %}
+	<a href="{{ item.name | prepend: site.basurl }}">{{ item.name }}</a> |
+	{% endfor %}
+    </nav>
+
     <div class="page-content">
       <div class="wrap">
       {{ content }}
