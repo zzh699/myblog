@@ -3,7 +3,7 @@ layout: post
 title:  "C语言做.bmp图像处理"
 date:   2014-08-07 08:53:56
 categories: jekyll update
-tags: vim
+tags: c
 ---
 
 ## BMP文件格式
