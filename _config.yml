@@ -5,7 +5,7 @@ description: "This blog is setup for recording knowledges as well as publishing 
 baseurl: "/myblog"
 url: "http://yourdomain.com"
 twitter_username: ZhaohengZhang
-github_username:  zzh699
+github_username:  zzhjerry
 highlighter:  pygments
 paginate: 10
 
