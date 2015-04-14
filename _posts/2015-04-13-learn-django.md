@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Django
 date: 2015-04-13
 tags: python
