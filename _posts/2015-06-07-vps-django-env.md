@@ -23,7 +23,7 @@ Need to:
     $ apt-get update
     $ apt-get upgrade 
 
-2. The default Django on the server is `1.6.1`. So we need to update it to the latest version for the [benifits](https://docs.djangoproject.com/en/1.8/howto/upgrade-version/) it provides.
+2. The default Django on the server is `1.6.1`. So we need to update it to the latest version for the [benefits](https://docs.djangoproject.com/en/1.8/howto/upgrade-version/) it provides.
 
     $ pip install -U Django
 
